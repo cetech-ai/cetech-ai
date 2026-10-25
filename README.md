@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cetech-ai/cetech-ai/main/assets/cetech-logo.png" alt="Cyan Eclipse Technologies" width="140">
+<img src="https://raw.githubusercontent.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/cetech-ai/main/assets/cetech-logo.png" alt="Cyan Eclipse Technologies" width="140">
 
 # Cyan Eclipse Technologies
 
@@ -16,9 +16,9 @@ Our work covers three areas:
 
 | Product | Repository | What it does | Status |
 |---|---|---|---|
-| Eclipse Agent Wallet | [agent-wallet-mcp](https://github.com/cetech-ai/agent-wallet-mcp) | Policy-scoped wallet for AI agents: spending caps, allowlists, approval thresholds, kill switch, and an append-only audit log | v0.1.0 sandbox reference implementation |
+| Eclipse Agent Wallet | [agent-wallet-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/agent-wallet-mcp) | Policy-scoped wallet for AI agents: spending caps, allowlists, approval thresholds, kill switch, and an append-only audit log | v0.1.0 sandbox reference implementation |
 | Eclipse Bazaar | eclipse-bazaar | A tested MCP marketplace — listings pass our test bench and carry public scorecards; the badge is a revocable certification mark | In development |
-| Bazaar MCP | [bazaar-mcp](https://github.com/cetech-ai/bazaar-mcp) | The agent-facing MCP server for the Eclipse Bazaar catalog | In development |
+| Bazaar MCP | [bazaar-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/bazaar-mcp) | The agent-facing MCP server for the Eclipse Bazaar catalog | In development |
 | AgentReady | — | Readiness grader for websites: can AI agents read, trust, and transact on your site? | In development |
 | CertBridge | — | SSL/TLS certificate lifecycle tooling for agents and operators | In development |
 | HostBridge | — | Agent-driven deployment tooling for shared hosting environments | In development |
