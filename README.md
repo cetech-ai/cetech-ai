@@ -17,7 +17,7 @@ Our work covers three areas:
 | Product | Repository | What it does | Status |
 |---|---|---|---|
 | Eclipse Agent Wallet | [agent-wallet-mcp](https://github.com/cetech-ai/agent-wallet-mcp) | Policy-scoped wallet for AI agents: spending caps, allowlists, approval thresholds, kill switch, and an append-only audit log | v0.1.0 sandbox reference implementation |
-| Eclipse Bazaar | [eclipse-bazaar](https://github.com/cetech-ai/eclipse-bazaar) | A tested MCP marketplace — listings pass our test bench and carry public scorecards; the badge is a revocable certification mark | In development |
+| Eclipse Bazaar | eclipse-bazaar | A tested MCP marketplace — listings pass our test bench and carry public scorecards; the badge is a revocable certification mark | In development |
 | Bazaar MCP | [bazaar-mcp](https://github.com/cetech-ai/bazaar-mcp) | The agent-facing MCP server for the Eclipse Bazaar catalog | In development |
 | AgentReady | — | Readiness grader for websites: can AI agents read, trust, and transact on your site? | In development |
 | CertBridge | — | SSL/TLS certificate lifecycle tooling for agents and operators | In development |
@@ -28,7 +28,7 @@ Our work covers three areas:
 
 ## The White Report
 
-[The White Report](https://thewhitereport.com) is our media property covering crypto and AI news. It is built for two audiences at once: human readers, and AI agents. Every article ships with a structured JSON twin, and the site runs a live MCP server ([white-report-site](https://github.com/cetech-ai/white-report-site)) so agents can read our reporting and our graded prediction scoreboard directly.
+[The White Report](https://thewhitereport.com) is our media property covering crypto and AI news. It is built for two audiences at once: human readers, and AI agents. Every article ships with a structured JSON twin, and the site runs a live MCP server so agents can read our reporting and our graded prediction scoreboard directly.
 
 ## Contact
 
